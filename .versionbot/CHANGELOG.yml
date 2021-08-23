@@ -1,4 +1,13 @@
 - commits:
+    - subject: 'patch: add support for basic auth'
+      hash: 947f46441763657331ea31d30a42ad72f4de7290
+      body: ''
+      footer: {}
+      author: Marco Füllemann
+      nested: []
+  version: 6.2.3
+  date: 2021-08-23T19:01:00.809Z
+- commits:
     - subject: Delete .github directory
       hash: 25e22a2ea50b355a66b35e2a99582367f983099e
       body: ''
