@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add possible alternative fileName to getInfo request
+      hash: a39ed20e716a8c29d435f00e14ce8b70a863ceee
+      body: |
+        Add possible alternative fileName to getInfo request
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Andrea Rosci <andrear@balena.io>
+        signed-off-by: Andrea Rosci <andrear@balena.io>
+      author: JSReds
+      nested: []
+  version: 6.2.6
+  date: 2021-09-30T12:19:29.488Z
+- commits:
     - subject: 'patch: Fix missing build folder in published package'
       hash: 3ed838a4549d1514eb6ea7b19a3ba72ab3be9cdf
       body: ''
