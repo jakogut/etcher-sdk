@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'Fix Http requests methods, allow to override it'
+      hash: 59ec9bf821e120cd3556cae4c37633db6ebe5b68
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Andrea Rosci <andrear@balena.io>
+        signed-off-by: Andrea Rosci <andrear@balena.io>
+      author: JSReds
+      nested: []
+  version: 6.2.6
+  date: 2021-10-12T15:56:42.122Z
+- commits:
     - subject: 'patch: Fix missing build folder in published package'
       hash: 3ed838a4549d1514eb6ea7b19a3ba72ab3be9cdf
       body: ''
