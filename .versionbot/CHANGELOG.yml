@@ -14,8 +14,8 @@
       author: Alexandru Costache
       nested: []
   version: 7.0.1
-  title: "package: Update node-raspberrypi-usbboot module"
-  date: 2022-01-31T12:56:07.579Z
+  title: "'Bump shelljs from 0.8.4 to 0.8.5'"
+  date: 2022-02-04T08:22:50.631Z
 - commits:
     - subject: "patch: Add node16 tests"
       hash: 2534ac5394b2be250e8f7ec0d893d264dea3f4ea
